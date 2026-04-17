@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Generated output files
+*.png
+*.jpg
+*.jpeg
+
+# Saved Keras/TF models
+*.keras
+*.h5
+*.pb
+saved_model/
+
+# Data files (downloaded datasets)
+*.npz
+*.npy
+
+# IDE
+.vscode/
+.idea/
+*.swp
